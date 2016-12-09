@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" />
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Desktop/MOOC/Coursera/Functional Programming in Scala Specialization/Functional Programming Principles in Scala/Week - 2 Higher Order Functions/funsets" value="1462337840000" />
+        <entry key="$USER_HOME$/Downloads/AkkaNotes_Messaging-master" value="1412658808000" />
+        <entry key="$USER_HOME$/Downloads/example-task-desing-scala" value="1457134670000" />
+        <entry key="$USER_HOME$/Downloads/forcomp" value="1462334812000" />
+        <entry key="$USER_HOME$/Downloads/objsets" value="1462340846000" />
+        <entry key="$USER_HOME$/Downloads/patmat" value="1462398064000" />
+        <entry key="$USER_HOME$/IdeaProjects/Example" value="1464235066000" />
+        <entry key="$USER_HOME$/projects/MOOC/Coursera/Functional Programming in Scala Specialization/Functional Programming Principles in Scala/Week - 1 Getting Started + Functions &amp; Evaluation/example" value="1459537974000" />
+        <entry key="$USER_HOME$/projects/MOOC/Coursera/Functional Programming in Scala Specialization/Functional Programming Principles in Scala/Week - 1 Getting Started + Functions &amp; Evaluation/recfun" value="1462390730000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
